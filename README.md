@@ -5,4 +5,5 @@ A python script to convert .smpl (Samsung Music Playlist) files to .m3u (multime
 
 ## Usage
 ```
+pip install mutagen
 python3 smpltom3u.py your_file.smpl
